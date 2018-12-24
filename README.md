@@ -42,7 +42,7 @@ https://docs.google.com/spreadsheets/d/1DLXlkmpkNC4y2BiJrs7jXJLDFiiUZOMqwK5UO_Hf
 https://drive.google.com/open?id=1E23SwstxHnNvs8jbKfPICiYnMbJkm0Hf
 
 ## 画面ワイヤーフレーム
-
+https://docs.google.com/spreadsheets/d/1DLXlkmpkNC4y2BiJrs7jXJLDFiiUZOMqwK5UO_HffeU/edit#gid=1115100982
 
 ## 使用予定Gem
 * carrierwave
