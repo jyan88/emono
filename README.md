@@ -19,6 +19,7 @@ Rails 5.2.2
 - [ ] ユーザー登録機能
   - [ ] メールアドレス、名前、パスワードは必須
 - [ ] ブログ一覧表示機能
+  - [ ] ブログ一覧はページング機能
 - [ ] ブログ投稿機能
   - [ ] タイトルと記事内容、画像は必須
 - [ ] ブログ編集機能
@@ -53,3 +54,5 @@ https://docs.google.com/spreadsheets/d/1DLXlkmpkNC4y2BiJrs7jXJLDFiiUZOMqwK5UO_Hf
 * mini_magick
 * ransack
 * kaminari
+* solidus
+* solidus_auth_devise
