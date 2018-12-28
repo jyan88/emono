@@ -41,7 +41,7 @@ https://docs.google.com/spreadsheets/d/1DLXlkmpkNC4y2BiJrs7jXJLDFiiUZOMqwK5UO_Hf
 https://docs.google.com/spreadsheets/d/1DLXlkmpkNC4y2BiJrs7jXJLDFiiUZOMqwK5UO_HffeU/edit#gid=1806376220
 
 ## 画面遷移図
-https://drive.google.com/file/d/1dNObFoyiSsKU3O6In0Xl5TmrmcDs09s6/view?usp=sharing
+https://drive.google.com/file/d/1waspeEeEqjYkNEkTb-2Jdo_wIzrt7wlF/view?usp=sharing
 
 ## 画面ワイヤーフレーム
 https://docs.google.com/spreadsheets/d/1DLXlkmpkNC4y2BiJrs7jXJLDFiiUZOMqwK5UO_HffeU/edit#gid=1115100982
